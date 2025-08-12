@@ -16,7 +16,9 @@
 - 📺 YouTube Clone  
 - 📚 Library Management System  
 - 🍔 Food Ordering App  
-- 📝 ToDo Application  
+- 📝 ToDo Application
+- Bus Management System
+- Ticket Booking system
 
 ---
 
