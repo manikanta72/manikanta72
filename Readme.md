@@ -1,95 +1,159 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Baswa Siva Manikanta</h1>
-<h3 align="center">Java Full Stack & MERN Stack Developer</h3>
+<!-- HERO SECTION -->
+<div align="center">
 
-<p align="center">
-  <em>Frontend • Backend • Databases • UI/UX</em>
+<h1 style="font-size:42px;">Baswa Siva Manikanta</h1>
+
+<p>
+  <strong>Java Full Stack Developer • MERN Stack Developer • UI/UX Designer</strong>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Real-World+Full+Stack+Applications;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Clean+UI+%7C+Scalable+Backend+%7C+Optimized+Databases" />
+<p>
+  Designing experiences. Engineering systems. Delivering products.
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&color=3A7AFE&center=true&vCenter=true&width=700&lines=Frontend+Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Scalable+Backends+%2B+Polished+UI%2FUX;From+Idea+to+Production" />
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 💻 Full Stack Developer with strong focus on **Java & MERN stack**
-- 🧠 Passionate about **clean architecture, scalable APIs, and performance**
-- 🎨 UI/UX focused — I care about **how users feel** using an app
-- 📦 Experience building **end-to-end applications** from scratch
-- 🎯 Goal: **Become a strong product-focused software engineer**
+<!-- VISUAL DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-38b1c4b2-14c0-4c70-b4c3-7f3c4a8c1f2f.gif" width="80%">
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Developer Philosophy
+> I believe great software is built at the intersection of  
+> **engineering discipline, visual clarity, and user empathy**.
+
+I don’t just write code —  
+I **design flows**, **optimize performance**, and **craft interfaces** that feel natural.
+
+---
+
+## 🧩 What I Actually Do (End-to-End)
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend & UI/UX
+- Design-first approach
+- Component-driven architecture
+- Micro-interactions & visual feedback
+- Responsive & accessible layouts
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend & Architecture
+- Clean layered architecture
+- Secure authentication & authorization
+- RESTful APIs & data modeling
+- Performance-aware design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack (Visual Skill Map)
 
 ### 👨‍🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap"/>
-</p>
+HTML/CSS ██████████████░░ 90%
+JavaScript █████████████░░░ 85%
+React ████████████░░░░ 80%
+UI/UX Design █████████████░░░ 85%
 
 ### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-222222?style=for-the-badge&logo=springboot"/>
-  <img src="https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express"/>
-</p>
+
+Java █████████████░░░ 85%
+Spring Boot ████████████░░░░ 80%
+Node.js ███████████░░░░░ 75%
+REST APIs █████████████░░░ 85%
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb"/>
-</p>
 
-### 🎨 UI / UX & Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-222222?style=for-the-badge&logo=postman"/>
-</p>
+MySQL ████████████░░░░ 80%
+MongoDB ███████████░░░░ 75%
+
+
+*(Skill bars > fake GitHub stats)*
 
 ---
 
-## 📂 Featured Projects
-- 🏠 **HouseRent** – MERN stack rental management system  
-- 🧩 **Project Mate** – Java Full Stack project & task management app  
-- 🎬 Netflix Clone  
-- 📺 YouTube Clone  
-- 🍔 Food Ordering Application  
-- 🚌 Bus Management System  
-- 🎟️ Ticket Booking System  
+## 🚀 Featured Work
+<table>
+<tr>
+<td>
+
+### 🧩 Project Mate
+**Java Full Stack Application**  
+Task & project management system with secure authentication and clean architecture.
+
+</td>
+<td>
+
+### 🏠 HouseRent
+**MERN Stack Platform**  
+Rental management system focused on usability and real-world workflows.
+
+</td>
+</tr>
+</table>
+
+**Other Builds**
+- Netflix Clone  
+- YouTube Clone  
+- Food Ordering System  
+- Bus Management System  
+- Ticket Booking Platform  
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikanta72&show_icons=true&theme=default&hide_border=true" />
-</p>
+## 🎞️ Design & Motion Mindset
+I consciously apply:
+- Visual hierarchy
+- Whitespace balance
+- Motion as feedback (not decoration)
+- Minimal but meaningful animations
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta72&theme=default&hide_border=true" />
-</p>
-
----
-
-## 📬 Connect With Me
-<p align="center">
-  <a href="www.linkedin.com/in/siva-manikanta-baswa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/manikanta72">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+If it doesn’t **help the user**, it doesn’t belong.
 
 ---
 
-<p align="center">
-  <strong>“Code with clarity. Build with purpose.”</strong>
-</p>
+## 📄 Resume
+<div align="center">
+
+<a href="YOUR_RESUME_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Resume-3A7AFE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🤝 Let’s Connect
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### “Build things that last.  
+Not just things that compile.”
+
+</div>
