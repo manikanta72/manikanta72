@@ -64,20 +64,27 @@ I **design flows**, **optimize performance**, and **craft interfaces** that feel
 
 ### 👨‍🎨 Frontend
 HTML/CSS ██████████████░░ 90%
+
 JavaScript █████████████░░░ 85%
+
 React ████████████░░░░ 80%
+
 UI/UX Design █████████████░░░ 85%
 
 ### ⚙️ Backend
 
 Java █████████████░░░ 85%
+
 Spring Boot ████████████░░░░ 80%
+
 Node.js ███████████░░░░░ 75%
+
 REST APIs █████████████░░░ 85%
 
 ### 🗄️ Databases
 
 MySQL ████████████░░░░ 80%
+
 MongoDB ███████████░░░░ 75%
 
 
@@ -139,11 +146,11 @@ If it doesn’t **help the user**, it doesn’t belong.
 ## 🤝 Let’s Connect
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/siva-manikanta-baswa">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="baswamani67@gmail.com">
   <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
