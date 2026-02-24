@@ -1,64 +1,95 @@
-<!-- Header -->
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Baswa Siva Manikanta</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Java Full Stack & MERN Stack Developer</h3>
 
-<!-- Short Intro -->
 <p align="center">
-  Passionate about building responsive and user-friendly web applications.  
-  Experienced in working across frontend and backend with modern technologies.
+  <em>Frontend • Backend • Databases • UI/UX</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Real-World+Full+Stack+Applications;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Clean+UI+%7C+Scalable+Backend+%7C+Optimized+Databases" />
 </p>
 
 ---
 
-<!-- Projects -->
-### 🚀 Projects
+## 🚀 About Me
+- 💻 Full Stack Developer with strong focus on **Java & MERN stack**
+- 🧠 Passionate about **clean architecture, scalable APIs, and performance**
+- 🎨 UI/UX focused — I care about **how users feel** using an app
+- 📦 Experience building **end-to-end applications** from scratch
+- 🎯 Goal: **Become a strong product-focused software engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-222222?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb"/>
+</p>
+
+### 🎨 UI / UX & Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Postman-222222?style=for-the-badge&logo=postman"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+- 🏠 **HouseRent** – MERN stack rental management system  
+- 🧩 **Project Mate** – Java Full Stack project & task management app  
 - 🎬 Netflix Clone  
 - 📺 YouTube Clone  
-- 📚 Library Management System  
-- 🍔 Food Ordering App  
-- 📝 ToDo Application
-- Bus Management System
-- Ticket Booking system
+- 🍔 Food Ordering Application  
+- 🚌 Bus Management System  
+- 🎟️ Ticket Booking System  
 
 ---
 
-<!-- Tech Stack -->
-### 🛠 Tech Skills
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manikanta72&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta72&theme=default&hide_border=true" />
 </p>
 
 ---
 
-<!-- About -->
-### 📌 About Me
-- 🔭 I’m currently working on **Full Stack Projects**  
-- 🌱 I’m exploring **advanced backend development & database optimization**  
-- 💬 Ask me about **Web Development, APIs, and Databases**  
-- 🎯 Goal: **Become a top-tier software engineer**  
-
----
-
-<!-- Contact -->
-### 📬 Connect with Me
+## 📬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-  </a>
-  <a href="https://www.facebook.com/your-facebook" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
+  <a href="https://github.com/manikanta72">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
-⭐️ From [Baswa Siva Manikanta](https://github.com/your-github-username)
+
+<p align="center">
+  <strong>“Code with clarity. Build with purpose.”</strong>
+</p>
