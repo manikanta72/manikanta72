@@ -147,7 +147,7 @@ If it doesn’t **help the user**, it doesn’t belong.
 <div align="center">
 
 <a href="www.linkedin.com/in/siva-manikanta-baswa">
- <button>Linkedin</button>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="baswamani67@gmail.com">
