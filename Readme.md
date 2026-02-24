@@ -11,7 +11,7 @@
   Designing experiences. Engineering systems. Delivering products.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&color=3A7AFE&center=true&vCenter=true&width=700&lines=Frontend+Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Scalable+Backends+%2B+Polished+UI%2FUX;From+Idea+to+Production" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&color=3A7AFE&center=true&vCenter=true&width=700&lines=Focused+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Scalable+Backends+%2B+Polished+UI%2FUX;From+Idea+to+Production" />
 
 </div>
 
